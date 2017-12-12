@@ -6,8 +6,8 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-	<img src="images/githubpages/ssh-key-set.png" alt="" width="80" height="80"/>
-        <h1>Resolution_Wanglf</h1>
+	<img src="images/githubpages/00.png" alt="" width="100" height="100"/>
+        <h1>Resolution_</h1>
       </div>
       <div id="particles-js"></div>
     </div>
