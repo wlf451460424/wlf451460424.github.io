@@ -7,7 +7,9 @@ layout: default
     <div class="aside">
       <div class="info-card">
 	<img src="images/00.png" alt="" width="100" height="100"/>
-        <h1>Resolution_</h1>
+        <h1>Resolution</h1>
+	<p>QQ: 451460424</p>
+	<p>” œ‰: resolution_wanglf@163.com</p>
       </div>
       <div id="particles-js"></div>
     </div>
