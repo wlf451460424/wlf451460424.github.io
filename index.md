@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-	<img src="images/githubpages/00.png" alt="" width="100" height="100"/>
+	<img src="images/00.png" alt="" width="100" height="100"/>
         <h1>Resolution_</h1>
       </div>
       <div id="particles-js"></div>
